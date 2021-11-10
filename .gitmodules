@@ -1,0 +1,6 @@
+[submodule "msrpc-ted"]
+	path = msrpc-ted
+	url = https://github.com/jonasknobloch/msrpc-ted
+[submodule "mono-ykm"]
+	path = mono-ykm
+	url = https://github.com/jonasknobloch/mono-ykm
